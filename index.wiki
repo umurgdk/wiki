@@ -2,10 +2,11 @@
 
 == Linux Programming ==
 
-* [[DRM / Modesetting]]
-  Direct Rendering Manager (DRM) makes easy to talk graphics cards. Modesetting changes display modes.
+=== Graphics ===
+* [[DRM - Modesetting]]: Direct Rendering Manager (DRM) makes easy to talk graphics cards. Modesetting changes display modes.
+* [[EGL]]: Use graphics apis (e.g OpenGL, OpenGLES)
 
-* edev
-  Edev is a 
-* libinput
+=== Input and Events ===
+* [[libudev]]: Low level linux api to get information about devices and get notified on hotplugs
+* [[libinput]]: High level abstraction on udev to use input devices
 
