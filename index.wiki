@@ -1,0 +1,11 @@
+= Umur's Personal Wiki =
+
+== Linux Programming ==
+
+* [[DRM / Modesetting]]
+  Direct Rendering Manager (DRM) makes easy to talk graphics cards. Modesetting changes display modes.
+
+* edev
+  Edev is a 
+* libinput
+
