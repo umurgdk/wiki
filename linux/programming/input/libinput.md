@@ -10,6 +10,6 @@ libinput doesn't open device files itself, instead client program should provide
 2. Take control of the session
 3. Take control of the device -- this sends a file handle in response
 
-## Useful Links
+### Useful Links
 
 * [Session implementation in rust](https://github.com/Smithay/smithay/blob/master/src/backend/session/dbus/logind.rs#L79)
